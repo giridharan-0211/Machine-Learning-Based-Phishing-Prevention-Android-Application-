@@ -44,7 +44,7 @@ Phishing Guard is an Android application that helps detect potentially malicious
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/PhishingGuard.git
+   git clone https://github.com/giridharan-0211/PhishingGuard.git
    cd PhishingGuard
    ```
 
